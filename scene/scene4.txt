@@ -1,0 +1,27 @@
+0.6 0.6 0.6
+camera camera2.txt
+squarelight squarelight3.txt
+//squarelight squarelight4.txt
+plain cornellplain1.txt
+plain cornellplain2.txt
+plain cornellplain3.txt
+plain cornellplain4.txt
+plain cornellplain5.txt
+plain cornellplain6.txt
+//ball cornellball1rt.txt
+//ball cornellball2.txt
+//ball cornellballdiff.txt
+//plain plain1.txt
+//triangle triangle1.txt
+//triangle triangle2.txt
+ball ball1.txt
+ball ball2.txt
+ball ball3.txt
+//ball ball4.txt
+ball ball5.txt
+poly poly1.txt
+poly poly2.txt
+//ball ball6.txt
+//bdbox bdbox1.txt
+//triangle triangle3.txt
+end

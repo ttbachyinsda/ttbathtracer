@@ -1,0 +1,17 @@
+0.6 0.6 0.6
+camera camera3.txt
+squarelight squarelight5.txt
+plain plain1.txt
+//triangle triangle1.txt
+//triangle triangle2.txt
+//ball ball1.txt
+//ball ball2.txt
+//ball ball3.txt
+//ball ball4.txt
+//ball ball5.txt
+//poly poly1.txt
+poly poly3.txt
+//ball ball6.txt
+//bdbox bdbox1.txt
+//triangle triangle3.txt
+end
